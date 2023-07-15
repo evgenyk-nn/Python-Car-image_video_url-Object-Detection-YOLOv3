@@ -45,7 +45,7 @@ The public camera used in the project was taken from [here](http://68.188.109.50
 
 
 <hr>
-<h2 align="center">Recognition and classification of objects (cars) in the image using the YOLO model.<br/> The OpenCV library is used for image processing, and the YOLO model is used for object detection.</h2>
+<h2 align="center">Recognition and classification of objects (cars) in the image using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection.</h2>
 <p align="center"><img src="https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot6.png" alt="App Screenshot"></p>
 <br/><br/>
 
