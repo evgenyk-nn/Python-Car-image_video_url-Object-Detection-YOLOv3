@@ -40,6 +40,7 @@ This implementation enables developers and researchers to leverage the power of 
 <br/>
 The public camera used in the project was taken from [here](http://68.188.109.50/cgi-bin/camera)
 <br/><br/>
+The public camera used in the project was taken from [here](http://68.188.109.50/cgi-bin/camera)
 
 <hr>
 <h2 align="center">Recognition and classification of objects (cars) in the image using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection.</h2>
