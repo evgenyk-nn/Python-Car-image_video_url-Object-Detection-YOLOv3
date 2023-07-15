@@ -5,7 +5,7 @@ The YOLOv3 object detection algorithm utilizes a neural network to classify and 
 
 Python Car Object Detection YOLOv3 allows for the detection and classification of cars in images and videos using a pre-trained YOLOv3 model. It can identify the location and bounding boxes around detected cars, as well as provide classification of car types if the model is trained for such a task.
 
-This implementation enables developers and researchers to leverage the power of the YOLOv3 algorithm for car detection in their Python-based projects.
+This implementation enables developers and researchers to leverage the power of the YOLOv3 algorithm for car detection in their Python-based projects.<br/><br/>
 
 
 
@@ -13,7 +13,7 @@ This implementation enables developers and researchers to leverage the power of 
 
 
 <b>Recognition and classification of objects (cars) on video using the YOLO model. 
-The OpenCV library is used for image processing, and the YOLO model is used for object detection.<br/>
+The OpenCV library is used for image processing, and the YOLO model is used for object detection.<br/><br/>
 ![screenshot](https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot1.png)
 <h6 align="center">App Screenshot</h6>
 <br/><br/>
