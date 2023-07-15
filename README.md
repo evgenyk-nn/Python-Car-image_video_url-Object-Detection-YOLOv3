@@ -41,7 +41,7 @@ This implementation enables developers and researchers to leverage the power of 
 
 The public camera used in the project was taken from [here](http://68.188.109.50/cgi-bin/camera)
 <br/><br/>
-The public camera used in the project was taken from [here](http://68.188.109.50/cgi-bin/camera)
+
 
 
 <hr>
