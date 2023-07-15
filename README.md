@@ -18,8 +18,15 @@ The OpenCV library is used for image processing, and the YOLO model is used for 
 <h6 align="center">App Screenshot</h6>
 <br/><br/>
 
+<h2 align="center">Recognition and classification of objects (cars) on video using the YOLO model.</h2>
+<p align="center">The OpenCV library is used for image processing, and the YOLO model is used for object detection.</p>
+<p align="center"><img src="https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot1.png" alt="App Screenshot"></p>
+<h6 align="center">App Screenshot</h6>
+<br/><br/>
 
-<b>Recognition and classification of objects (cars) on video using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection.<br/> (markings added to indicate parking and road zones)<br/>
+
+
+<b>Recognition and classification of objects (cars) on video using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection. (markings added to indicate parking and road zones)<br/>
 ![screenshot](https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot2.png)
 <h6 align="center">App Draw-Debug Screenshot</h6>
 <br/><br/>
@@ -27,7 +34,7 @@ The OpenCV library is used for image processing, and the YOLO model is used for 
 
 <b>Recognition and classification of objects (cars) on video using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection.<br/>
 ![screenshot](https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot3.png)
-<h6 align="center">App Draw-Debug Screenshot</h6>
+
 <br/><br/>
 
 
