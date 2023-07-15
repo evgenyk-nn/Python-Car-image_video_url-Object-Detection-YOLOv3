@@ -16,7 +16,7 @@ This implementation enables developers and researchers to leverage the power of 
 
 
 <hr>
-<h2 align="center">Recognition and classification of objects (cars) on video using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection. (markings added to indicate parking and road zones)</h2>
+<h2 align="center">Recognition and classification of objects (cars) on video using the YOLO model. The OpenCV library is used for image processing, and the YOLO model is used for object detection.<br/> (markings added to indicate parking and road zones)</h2>
 <p align="center"><img src="https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot2.png" alt="App Screenshot"></p>
 <br/><br/>
 
