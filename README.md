@@ -11,6 +11,17 @@ This implementation enables developers and researchers to leverage the power of 
 Recognition and classification of objects (cars) in the image on the image using the YOLO model.
 The OpenCV library is used for image processing and the YOLO model for object detection.
 
+
+
+
+# Python-Car-image_video_url-Object-Detection-YOLOv3
+<p>Python Car Object Detection YOLOv3 is an implementation of the YOLOv3 object detection algorithm using the Python programming language. This implementation is specifically designed for detecting cars in images and videos.</a>
+<br />
+
+
+
+
+
 ![screenshot](https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/tree/master/screenshots/screenshot1.png)
 <h6 align="center">App Screenshot</h6>
 
