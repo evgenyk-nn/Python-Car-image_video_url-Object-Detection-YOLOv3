@@ -14,7 +14,7 @@ This implementation enables developers and researchers to leverage the power of 
 
 <b>Recognition and classification of objects (cars) in the image on the image using the YOLO model. The OpenCV library is used for image processing and the YOLO model for object detection.<br/>
 
-![screenshot](https://imgur.com/B1X44Xp)
+<https://imgur.com/B1X44Xp>
 <h6 align="center">App Screenshot</h6>
 <br/><br/>
 
