@@ -37,6 +37,8 @@ This implementation enables developers and researchers to leverage the power of 
 <hr>
 <h2 align="center">Recognition and classification of objects (cars) by using the OpenCV library to capture video from an IP</h2>
 <p align="center"><img src="https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot5.png" alt="App Screenshot"></p>
+<br/>
+The public camera used in the project was taken from [here](http://68.188.109.50/cgi-bin/camera)
 <br/><br/>
 
 <hr>
@@ -44,6 +46,3 @@ This implementation enables developers and researchers to leverage the power of 
 <p align="center"><img src="https://github.com/evgenyk-nn/Python-Car-image_video_url-Object-Detection-YOLOv3/blob/master/screenshots/screenshot6.png" alt="App Screenshot"></p>
 <br/><br/>
 
-
-
-The public camera used in the project was taken from [here](http://68.188.109.50/cgi-bin/camera)
